@@ -3,7 +3,7 @@
 
 In diesem Übungsblatt üben Sie die Instanziierung und grundlegende Verwendung von Objekten basierend auf einer vorhandenen API.
 
-## Übung: Pet-Adoption-Center
+## Übung 1: Pet-Adoption-Center
 
 In dieser Übung verwenden wir die Pet Adoption Center API, um verschiedene Haustiere und ihre Adoptierenden zu verwalten.
 
@@ -50,7 +50,7 @@ Implementieren Sie die folgenden Aufgaben in der `main` Methode, die sich in der
 
 
 
-## Übung: Studenten-Enrollment-System
+## Übung 2: Studenten-Enrollment-System
 
 In dieser Übung erstellen wir eine API für ein Student Enrollment System, das uns die Verwaltung der Einschreibung von Studierenden in verschiedene Kurse ermöglicht.
 Die Quellen finden Sie im Paket [`de.phl.programmingproject.enrollmentsystem`](src/main/java/de/phl/programmingproject/enrollmentsystem/).
